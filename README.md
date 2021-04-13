@@ -1,2 +1,2 @@
 # Stok-Yonetim-Sistemi
-#java OOP, javadb, swing
+OOP with java, javadb, swing
